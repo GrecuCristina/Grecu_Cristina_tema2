@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tema 2</string>
+    <string name="new_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="saved">User Saved</string>
+    <string name="not_saved">Couldn\'t Save User</string>
+    <string name="no_user">No users</string>
+    <string name="note">Update Note</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="updated">Note Updated</string>
+</resources>
